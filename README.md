@@ -4,6 +4,7 @@
  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">          
 </head>
 <body>
+            <i class="devicon-unity-original-wordmark"></i>    
 ### Hi there 👋
 I'm Haris. I'm doing Bachelor's in Computer Science from Fast University Islamabad. I'm passionate and learning to become a full stack web developer.
 
