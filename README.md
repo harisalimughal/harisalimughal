@@ -6,7 +6,7 @@
 <body>  
     
 ### Hi there 👋                                                                                      
-
+ <img src="https://pixabay.com/gifs/wind-turbine-windmill-sunset-4737/" alt="pic" width="500" height="600">
 I'm Haris. I'm doing Bachelor's in Computer Science from Fast University Islamabad. I'm passionate and learning to become a full stack web developer. 
    
 <p>------------------------------------------------------------------------------------------------------------------------------</p><br/>
