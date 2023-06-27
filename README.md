@@ -5,7 +5,8 @@
 </head>
 <body>     
 ### Hi there 👋
-I'm Haris. I'm doing Bachelor's in Computer Science from Fast University Islamabad. I'm passionate and learning to become a full stack web developer.
+I'm Haris. I'm doing Bachelor's in Computer Science from Fast University Islamabad. I'm passionate and learning to become a full stack web developer. 
+    ![](https://komarev.com/ghpvc/?username=harisalimughal)
 <p>------------------------------------------------------------------------------------------------------------------------------</p><br/>
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://www.w3.org/html/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" 
@@ -14,10 +15,12 @@ height="40"/> </a><a href="https://www.figma.com/" target="_blank"> <img src="ht
  <a href="https://unity.com/pages/unity-pro-buy-now?utm_source=google&utm_medium=cpc&utm_campaign=cc_dd_upr_sapac_sapac-t2_en_pu_sem-gg_acq_br-pr_2023-01_brand-st2_cc3022_ev-br_id:71700000106719838&utm_content=cc_dd_upr_apac_pu_sem_gg_ev-br_pros_x_npd_cpc_kw_sd_all_x_x_brand_id:58700008276350189&utm_term=unity&&&&&gad=1&gclid=CjwKCAjwkeqkBhAnEiwA5U-uMzZkgXdW8dJzmyQJ4mW4DRgI-LrQxXXz_f_xc9pdsUf_rZ9-ODN1GBoCc5oQAvD_BwE&gclsrc=aw.ds" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" alt="Unity" width="30" height="30"></a>
  <a href="https://www.java.com/en/download/help/whatis_java.html" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="c" width="40" height="40"/> </a>  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
  
+
+
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=harisalimughal)](https://git.io/streak-stats)
 
-![](https://komarev.com/ghpvc/?username=harisalimughal)
+
 
 ![Haris Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=harisalimughal&show_icons=true&theme=radical)
 
