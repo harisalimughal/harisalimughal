@@ -1,10 +1,12 @@
 ### Hi there 👋
 I'm Haris. I'm doing Bachelor's in Computer Science from Fast University Islamabad. I'm passionate and learning to become a full stack web developer.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harisalimughal&show_icons=true&theme=radical)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=harisalimughal)](https://git.io/streak-stats)
 
 ![](https://komarev.com/ghpvc/?username=harisalimughal)
+
 
 
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%3Fitemid%3D15828752">
