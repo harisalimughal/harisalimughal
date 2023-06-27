@@ -4,10 +4,10 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">    
 </head>
 <body>  
-    ![](https://komarev.com/ghpvc/?username=harisalimughal)
+    
 ### Hi there 👋
 I'm Haris. I'm doing Bachelor's in Computer Science from Fast University Islamabad. I'm passionate and learning to become a full stack web developer. 
-    
+    ![](https://komarev.com/ghpvc/?username=harisalimughal)
 <p>------------------------------------------------------------------------------------------------------------------------------</p><br/>
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://www.w3.org/html/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" 
@@ -20,7 +20,6 @@ height="40"/> </a><a href="https://www.figma.com/" target="_blank"> <img src="ht
 
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=harisalimughal)](https://git.io/streak-stats)
-
 
 
 ![Haris Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=harisalimughal&show_icons=true&theme=radical)
