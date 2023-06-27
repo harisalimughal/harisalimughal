@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=harisalimughal)](https://git.io/streak-stats)
 <img align="right" alt="Coding" width="400" src="add your link 
   here">
 <!--
