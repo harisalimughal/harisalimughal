@@ -6,7 +6,7 @@
 <body>  
     
 ### Hi there 👋                                                                                      
- <img src="https://pixabay.com/gifs/get/g0d8d61b8e9791a0eb7d1f9da4399cc69421102f0404cb739001cf6375ee6d85c0b02fd1905f6dd8aa961c0680e532acc.gif" alt="pic" width="1500" height="600">
+ <img src="https://pixabay.com/gifs/get/g0d8d61b8e9791a0eb7d1f9da4399cc69421102f0404cb739001cf6375ee6d85c0b02fd1905f6dd8aa961c0680e532acc.gif" alt="pic" width="500" height="60">
 I'm Haris. I'm doing Bachelor's in Computer Science from Fast University Islamabad. I'm passionate and learning to become a full stack web developer. 
    
 <p>------------------------------------------------------------------------------------------------------------------------------</p><br/>
