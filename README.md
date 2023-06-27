@@ -32,8 +32,6 @@ height="40"/> </a><a href="https://www.figma.com/" target="_blank"> <img src="ht
 
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%3Fitemid%3D15828752">
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/l1J9BYe5eZccC4Nck" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/art-cinemagraph-l1J9BYe5eZccC4Nck">via GIPHY</a></p>
-
 <!--
 **harisalimughal/harisalimughal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
