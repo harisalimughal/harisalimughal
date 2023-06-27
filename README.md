@@ -6,7 +6,7 @@
 <body>  
     
 ### Hi there 👋                                                                                      
-                                                                                                                                  ![](https://komarev.com/ghpvc/?username=harisalimughal)
+![](https://komarev.com/ghpvc/?username=harisalimughal)
 I'm Haris. I'm doing Bachelor's in Computer Science from Fast University Islamabad. I'm passionate and learning to become a full stack web developer. 
    
 <p>------------------------------------------------------------------------------------------------------------------------------</p><br/>
