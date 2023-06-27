@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm Haris. I'm doing Bachelor's in Computer Science from Fast University Islamabad. I'm passionate and learning to become a full stack web developer.
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=harisalimughal)](https://git.io/streak-stats)
 <img align="right" alt="Coding" width="400" src="add your link 
   here">
