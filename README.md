@@ -15,7 +15,6 @@ height="40"/> </a><a href="https://www.figma.com/" target="_blank"> <img src="ht
  <a href="https://www.java.com/en/download/help/whatis_java.html" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="c" width="40" height="40"/> </a>  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
  
   
-<br/>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=harisalimughal)](https://git.io/streak-stats)
 
 ![](https://komarev.com/ghpvc/?username=harisalimughal)
