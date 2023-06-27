@@ -16,7 +16,7 @@ height="40"/> </a><a href="https://www.figma.com/" target="_blank"> <img src="ht
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"" alt="javascript" width="40" height="40"/> </a>  
 <p align="left"> <a href="https://legacy.reactjs.org/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> </a>  
     <i class="devicon-python-plain-wordmark"></i>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <i class="devicon-python-plain-wordmark" alt="python" width="40" height="40"></i></a>    
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"></a>    
 <p align="left"> <a href="https://www.java.com/en/download/help/whatis_java.html" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="c" width="40" height="40"/> </a>  
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  
   
