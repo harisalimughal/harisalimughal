@@ -31,6 +31,8 @@ height="40"/> </a><a href="https://www.figma.com/" target="_blank"> <img src="ht
 
 
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%3Fitemid%3D15828752">
+
+<img align="right" alt="Coding" width="400" src="https://pixabay.com/gifs/get/g0d8d61b8e9791a0eb7d1f9da4399cc69421102f0404cb739001cf6375ee6d85c0b02fd1905f6dd8aa961c0680e532acc.gif">
 <!--
 **harisalimughal/harisalimughal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
