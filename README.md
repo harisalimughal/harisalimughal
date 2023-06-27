@@ -9,9 +9,7 @@ I'm Haris. I'm doing Bachelor's in Computer Science from Fast University Islamab
 height="40"/> </a><a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"" alt="c" width="40" height="40"/> </a>  
 <p align="left"> <a href="https://legacy.reactjs.org/)"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="c" width="40" height="40"/> </a>    
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> 
-            <img <i class="devicon-python-plain-wordmark"
-           alt="c" width="40" height="40"/> </a>    
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <i class="devicon-python-plain-wordmark"></i> alt="c" width="40" height="40"/> </a>    
 <p align="left"> <a href="https://www.java.com/en/download/help/whatis_java.html" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="c" width="40" height="40"/> </a>  
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  
   
