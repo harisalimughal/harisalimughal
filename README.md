@@ -203,6 +203,16 @@ Believe `in Allah Almighty` Exclusively and Unconditionally.
   
 <div align="center"> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div>
 
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/harisalimughal/personal-portfolio-haris" align="left"><img align="left" width="45%" src="./assets/images/personalportfolio.png" /></a><a href="https://github.com/harisalimughal/CodeClauseInternship_NewsPortal" align="right"><img align="right" width="45%" src="./assets/images/newsPortal.png" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<br/>
+
+<div width="100%" align="center"><a href="https://github.com/harisalimughal/CodeClauseInternship_Basic-Text-Editor" align="left"><img align="left" width="45%" src="./assets/images/txteditor.png" /></a><a href="https://github.com/harisalimughal/CodeClauseInternship_ChatApp" align="right"><img align="right" width="45%" src="./assets/images/chatapp github.png" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+
 <!--- building footer with spaceship question --->
   
 ![footer](https://user-images.githubusercontent.com/60597290/152518980-fa55fbc8-81fe-4bba-bf52-21320455e217.png)
