@@ -78,7 +78,7 @@
 <img height="100" src="https://user-images.githubusercontent.com/60597290/152363164-01140f44-5328-4ea3-8d95-fec21af7e295.png" /> 
 --->
   
-<img height="100" src="./assets/icons/react.png"/>
+<img height="100" src="./assets/icons/React.png"/>
 <img height="100" src="./assets/icons/javascript.png" />
 <img height="100" src="./assets/icons/html.png"/>
 <img height="100" src="./assets/icons/css.png" />
@@ -96,7 +96,7 @@
 <img height="100" src="./assets/icons/pycharm.png" />
 <img height="100" src="./assets/icons/figma.png" />
 <img height="100" src="./assets/icons/photoshop.png" />
-<img height="100" src="./assets/icons/unity.png" />
+<img height="100" src="./assets/icons/Unity.png" />
 <img height="100" src="./assets/icons/office.png" />
   
 &nbsp;
