@@ -172,26 +172,34 @@ Believe `in Allah Almighty` Exclusively and Unconditionally.
   
 </p>
 
-<a href="https://github.com/harisalimughal" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harisalimughal&langs_count=40&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%40%Languages" alt="Top Languages" /></a>
-
 
 <!--- Recent Activity ☂️ ---> 
 
 <h1 align="center">
     Recent Activity ☂️
-    </h2>
+</h2>
 
 <table align="center">
   <tr> 
     <div style="text-align: center;">
-    <td align="left">
+    <td align="center">
       
 <!--START_SECTION:activity-->
  <a href="https://wakatime.com/@harisalimughal">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=harisalimughal&hide_progress=false&layout=compact&custom_title=Wakatime%20last%20year%20Stats"
+        <img width="80%" src="https://github-readme-stats.vercel.app/api/wakatime?username=harisalimughal&hide_progress=false&layout=compact&custom_title=Wakatime%20last%20year%20Stats"
             alt="harisalimughal's wakatime last year stats">
     </a>
 <!--END_SECTION:activity-->
+
+<h1 align="center">
+    Languages Stats ✍✨
+    </h1>
+    
+<table align="center">
+  <tr> 
+    <div style="text-align: center;">
+    <td align="left">
+<a href="https://github.com/harisalimughal" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harisalimughal&langs_count=40&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%40%Languages" alt="Top Languages" /></a>
 
  </td>
    </div>
