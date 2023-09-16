@@ -186,8 +186,8 @@ Believe `in Allah Almighty` Exclusively and Unconditionally.
       
 <!--START_SECTION:activity-->
  <a href="https://wakatime.com/@harisalimughal">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=harisalimughal&hide_progress=false&layout=compact&custom_title=Wakatime%20last%20year%20Stats"
-            alt="harisalimughal's wakatime last year stats">
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=harisalimughal&hide_progress=false&layout=compact&custom_title=Wakatime%20Stats%20SINCE%20SEP%208,%202023"
+            alt="harisalimughal's wakatime Stats (SINCE SEP 8,2023)">
     </a>
 <!--END_SECTION:activity-->
 
