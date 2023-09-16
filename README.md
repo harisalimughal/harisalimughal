@@ -186,7 +186,7 @@ Believe `in Allah Almighty` Exclusively and Unconditionally.
       
 <!--START_SECTION:activity-->
  <a href="https://wakatime.com/@harisalimughal">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=harisalimughal&hide_progress=false&layout=compact&custom_title=Wakatime%20%20%20Stats (SINCE SEP 8, 2023)"
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=harisalimughal&hide_progress=false&layout=compact&custom_title=Wakatime%20last%20year%20Stats"
             alt="harisalimughal's wakatime last year stats">
     </a>
 <!--END_SECTION:activity-->
@@ -199,7 +199,7 @@ Believe `in Allah Almighty` Exclusively and Unconditionally.
   <tr> 
     <div style="text-align: center;">
     <td align="left">
-<a href="https://github.com/harisalimughal" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harisalimughal&langs_count=40&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top Languages (Repo Based)" alt="Top Languages" /></a>
+<a href="https://github.com/harisalimughal" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harisalimughal&langs_count=40&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%40%Languages" alt="Top Languages" /></a>
 
  </td>
    </div>
