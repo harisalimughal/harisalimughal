@@ -131,7 +131,7 @@ Believe `in Allah Almighty` Exclusively and Unconditionally.
     Education 
     </h2>
 
-  Fifth Semester - `Bachelor` in `Computer Science `(BSCS)` - Nuces (Fast) University Islamabad
+  Final Year - `Bachelor` in `Computer Science `(BSCS)` - Nuces (Fast) University Islamabad
   
   `Intermediate` with `95% marks` - Nishat Group of College's Multan 
   
